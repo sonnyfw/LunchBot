@@ -42,7 +42,7 @@ def index():
         </style>
     </head>
     <body>
-        <p class=text>Ni kan ju för fan gå till {{ item }}</p>
+        <p class=text>Ni kan ju för fan gå till {{ item }}</p> 
     </body>
     </html>
     """
