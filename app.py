@@ -20,7 +20,7 @@ def index():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>LunchBot</title>
+        <title>JKPG LunchBot</title>
         <style>
             body {
                 display: flex;
